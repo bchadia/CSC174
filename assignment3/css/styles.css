@@ -12,19 +12,16 @@
       color: lightblue;
    }
 
-.headImage{
-   grid-column:2/4;
-   padding:10px;
-}
-
 nav{
    display: flex;
    justify-content: flex-end;
    list-style:none;
    grid-column: 2 / 4;
-   color: red;
-   padding: 20px;
-   font-size: 25px;
+   grid-row: 1 ;
+   color: goldenrod;
+   padding: 25px;
+   text-align: center;
+   font-size: 15px;
 
 }
 
@@ -49,24 +46,21 @@ header{
 
 .strawberry {
    color: lightcoral;
-   text-align: left;
 }
 
 .lemon{
    color: #FFF700;
-   text-align: middle;
+
 }
 
 .apple{
    color: #2CD01A;
-   text-align: left;
 }
 
 
 main{
    grid-column: 1/4;
-   align-self: end;
-   font-family: 'Open Sans Condensed', sans-serif;
+   font-family: "Open Sans Condensed", sans-serif;
 }
 
 section{
@@ -74,13 +68,13 @@ section{
 }
 
 p {
-   font-family: 'Montserrat', sans-serif;
+   font-family: "Montserrat", sans-serif;
 }
 
 footer{
    grid-column: 1 / 2;
    font-family: "Roboto", sans-serif;
-
+   padding-top: 20px;
 }
 
 a{
