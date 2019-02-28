@@ -6,6 +6,7 @@
       <link href="https://fonts.googleapis.com/css?family=Montserrat|Roboto" rel="stylesheet">
       <link href="https://fonts.googleapis.com/css?family=Open+Sans+Condensed:300" rel="stylesheet">
       <link href="https://fonts.googleapis.com/css?family=Anton" rel="stylesheet">
+      <link href="https://fonts.googleapis.com/css?family=Josefin+Sans|Sniglet:800" rel="stylesheet">
 </head>
 <body class = "container">
    <header>
