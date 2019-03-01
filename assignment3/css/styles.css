@@ -2,7 +2,7 @@
    background-color: lightblue;
    margin: 0 auto;
    width: 90%;
-   max-width:900px;
+   max-width:960px;
    display: grid;
    grid-template-columns:260px 1fr 200px;
 }
@@ -18,7 +18,7 @@ nav{
    list-style: none;
    grid-column: 2 / 4;
    grid-row: 1 ;
-   padding: 25px;
+   padding: 32px;
    text-align: center;
    font-size: 15px;
 
@@ -49,7 +49,6 @@ header{
 
 .strawberry {
    color: lightcoral;
- /***  margin-top: 0.5px; */
    margin-bottom: 5px;
 }
 
@@ -67,11 +66,15 @@ main{
    grid-column: 1/4;
 }
 
-section{
-   column-count: 3;
-   column-gap: 25px;
+div{
+   display: flex;
+   justify-content: space-between;
+   
 }
 
+section{
+   margin: 15px;
+}
 p {
    font-family: 'Josefin Sans', sans-serif;
    line-height: 1.9em;
