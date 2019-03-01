@@ -2,7 +2,7 @@
 Chadia Bedetse
 
 ## Typography
-I picked these typefaces, josephin sans and snigglet, because they pair well (accoding to Google Fonts) and convey happiness and playfulness.
+I picked these typefaces, josephin sans and snigglet, because they pair well (accoding to Google Fonts) and convey happiness and playfulness which goes well with the webpage's mood.
 
 ## Readability
 I decreased max-width of the entire webpage and changed the fonts to make the paragraph easier to read

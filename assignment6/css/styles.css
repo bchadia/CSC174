@@ -2,7 +2,7 @@
    background-color: lightblue;
    margin: 0 auto;
    width: 90%;
-   max-width:960px;
+   max-width:900px;
    display: grid;
    grid-template-columns:260px 1fr 200px;
 }
@@ -73,7 +73,7 @@ div{
 }
 
 section{
-   margin: 15px;
+   margin: 13px;
 }
 p {
    font-family: 'Josefin Sans', sans-serif;
